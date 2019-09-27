@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Resourcs](README.md)
+* [BOSCore White Paper](boscore-white-paper.md)
+* [Bug Bounty](bug-bounty.md)
+* [BOS Community](bos-community.md)
 
