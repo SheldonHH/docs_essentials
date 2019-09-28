@@ -2,7 +2,7 @@
 
 * [ibc\_contracts](README.md)
 
-## IBC
+## IBC（Inter-blockchain Communication） <a id="ibc"></a>
 
 * [User Guide](ibc/user-guide.md)
 * [Token Registration and Management](ibc/token-registration-and-management.md)
@@ -12,7 +12,7 @@
 * [ibc\_plugin\_eos](ibc/ibc_plugin_eos.md)
 * [ibc\_plugin\_bos](ibc/ibc_plugin_bos.md)
 
-## 3s LIB
+## 3s LIB（Batched Byzatine T） <a id="3s-lib"></a>
 
 * [Algorithm for improving EOSIO consensus speed based on Batch-PBFT](3s-lib/untitled.md)
 * [PART I BOS LIB Acceleration Solution: Batch PBFT](3s-lib/part-i-bos-lib-acceleration-solution-batch-pbft.md)
