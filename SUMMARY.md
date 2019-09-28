@@ -18,3 +18,8 @@
 * [PART I BOS LIB Acceleration Solution: Batch PBFT](3s-lib/part-i-bos-lib-acceleration-solution-batch-pbft.md)
 * [PART II BOS Batch-PBFT Upgrade Solution](3s-lib/part-ii-bos-batch-pbft-upgrade-solution.md)
 
+## BOS Oracle
+
+* [BOS Oracle v1.0 使用文档](bos-oracle/bos-oracle-v1.0-shi-yong-wen-dang.md)
+* [BOS Oracle后期发展计划](bos-oracle/bos-oracle-hou-qi-fa-zhan-ji-hua.md)
+
